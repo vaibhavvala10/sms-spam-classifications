@@ -26,15 +26,15 @@ A Machine Learning web application that classifies SMS messages as **Spam** or *
 ```text
 sms-spam-classifications/
 │
-├── app.py                  # Streamlit application
-├── model.pkl               # Trained machine learning model
-├── vectorizer.pkl          # Text vectorizer
-├── spam.csv                # SMS spam dataset
-├── nltk.txt                # NLTK resources
-├── requirements.txt        # Project dependencies
-├── setup.sh                # Streamlit configuration for deployment
-├── Procfile                # Deployment command
-└── README.md               # Project documentation
+├── app.py                 
+├── model.pkl               
+├── vectorizer.pkl          
+├── spam.csv                
+├── nltk.txt               
+├── requirements.txt        
+├── setup.sh                
+├── Procfile                
+└── README.md               
 ``` 
 
 ## Machine Learning Algorithms Evaluated
@@ -92,5 +92,3 @@ Not Spam (Ham)
 ## Author
 
 **Vaibhav Vala**
-
-GitHub: https://github.com/vaibhavvala10-commits
